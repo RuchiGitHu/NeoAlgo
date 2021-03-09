@@ -122,6 +122,7 @@
 - [Randomized Select Search](search/Randomized_Select.cpp)
 - [Staircase Search](search/Staircase_Search.cpp)
 - [Tenary Search](search/TernarySearch.cpp)
+- [Fibonacci Search](search/fibonacci_search.cpp)
 
 ## Sorting
 
@@ -238,3 +239,4 @@ _add list here_
 - [Sudoku Solver](other/sudoku.cpp)
 - [Swap Two Nibbles](other/SwapTwoNibbles.cpp)
 - [Unique_Number_III](other/Unique_Number_III.cpp)
+- [KnapSack Fractional using Greedy Approach](other/knapsackfraction.cpp)
